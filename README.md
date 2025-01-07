@@ -16,7 +16,7 @@
 
 🌐 **国内推荐的 ChatGPT 镜像网站** 🌐
 
-🚀 **[chatgpt11.com](chatgpt11.us.kg/#/chat)**：稳定可靠的 ChatGPT 中文平台，支持 GPT-4o 和 o1。集成广泛的模型选择，支持 GPT-4o、4o mini 和 o1，适用于多种行业需求。
+🚀 **[chatgpt11.com](https://chatgpt11.us.kg/#/chat)**：稳定可靠的 ChatGPT 中文平台，支持 GPT-4o 和 o1。集成广泛的模型选择，支持 GPT-4o、4o mini 和 o1，适用于多种行业需求。
 
 
 
@@ -43,7 +43,7 @@
 
 要快速体验 ChatGPT 中文版的强大功能，请按照以下步骤操作：
 
-1. **选择网站**：挑选最适合您的 ChatGPT 中文平台，如 [chatgpt11.com](chatgpt11.us.kg/#/chat)。
+1. **选择网站**：挑选最适合您的 ChatGPT 中文平台，如 [chatgpt11.com](https://chatgpt11.us.kg/#/chat)。
 2. **登录流程**：不需要登录。
 3. **开始使用**：输入您的问题或任务，即可获得系统的即时响应。
 4. **探索功能**：尝试平台提供的其他功能，如 AI 助手、绘画等，充分发挥其潜力。
